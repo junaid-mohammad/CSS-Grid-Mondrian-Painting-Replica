@@ -1,6 +1,6 @@
 # Mondrian Composition 3 Painting Replica Using CSS Grid
 
-This repository contains the source code for a CSS Grid project inspired by Piet Mondrian's _Composition III_. This project is an exercise in mastering the CSS Grid layout system by replicating the geometric arrangement and color blocks from the iconic painting.
+This repository contains the source code for a CSS Grid project inspired by Piet Mondrian's Composition III. This project is an exercise in mastering the CSS Grid layout system by replicating the geometric arrangement and color blocks from the iconic painting.
 
 ## Live Website
 
